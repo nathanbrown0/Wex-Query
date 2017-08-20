@@ -1,0 +1,11 @@
+C:\Users\nathanbrown\Documents\Visual Studio 2017\Projects\Wex Query\Wex Query\bin\Debug\Wex Query.exe.config
+C:\Users\nathanbrown\Documents\Visual Studio 2017\Projects\Wex Query\Wex Query\bin\Debug\Wex Query.exe
+C:\Users\nathanbrown\Documents\Visual Studio 2017\Projects\Wex Query\Wex Query\bin\Debug\Wex Query.pdb
+C:\Users\nathanbrown\Documents\Visual Studio 2017\Projects\Wex Query\Wex Query\obj\Debug\Wex Query.csprojResolveAssemblyReference.cache
+C:\Users\nathanbrown\Documents\Visual Studio 2017\Projects\Wex Query\Wex Query\obj\Debug\Wex Query.exe
+C:\Users\nathanbrown\Documents\Visual Studio 2017\Projects\Wex Query\Wex Query\obj\Debug\Wex Query.pdb
+K:\Nathan\Wex Query\Wex Query\bin\Debug\Wex Query.exe.config
+K:\Nathan\Wex Query\Wex Query\obj\Debug\Wex Query.exe
+K:\Nathan\Wex Query\Wex Query\obj\Debug\Wex Query.pdb
+K:\Nathan\Wex Query\Wex Query\bin\Debug\Wex Query.exe
+K:\Nathan\Wex Query\Wex Query\bin\Debug\Wex Query.pdb
